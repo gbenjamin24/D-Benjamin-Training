@@ -2,7 +2,7 @@
 baseurl = "localhost:1313"
 # Page settings
 #baseurl = "https://dbenjamintraining.com"
-title = "D Benjamin Training LLC - CDL and Bus Driver Training in Monmouth County, NJ"
+title = "D Benjamin Training LLC - CDL and ELDT Driver Training in Monmouth County, Ocean County, and Surrounding Areas, NJ"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -11,8 +11,8 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = "David Benjamin"
-  description = "D Benjamin Training LLC offers CDL Commercial Driver Training (ELDT) for Class 'B' Licenses, Passenger & School Bus Endorsements, and Air Brake Training in Monmouth County, NJ."
-  email = "contact@dbenjamintraining.com"
+  description = "D Benjamin Training LLC offers CDL and ELDT Driver Training for Class A, B, and C Licenses, Passenger & School Bus Endorsements, and Air Brake Training in Monmouth County, Ocean County, and Surrounding Areas, NJ."
+  email = "f/xpzenzbw"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
@@ -30,15 +30,15 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Drive Your Future."
-    subtitle = "CDL and Bus Driver Training in Monmouth County, NJ"
+    subtitle = "Expert CDL - ELDT Driver Training in Monmouth, Ocean County & Nearby Areas, NJ - Comprehensive Training for the New Federal ELDT Requirements"
 
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
 
   [[params.intro.item]]
-    title = "Class 'B' Licenses"
-    description = "Get professional training for your Class 'B' Commercial Driver's License and open up new opportunities in the transportation industry."
+    title = "Class A, B, and C Licenses"
+    description = "Get professional training for your Class A, B, and C Commercial Driver's License and open up new opportunities in the transportation industry."
     url = "#"
     #button = "Learn More"
     icon = "icon-graduation"
@@ -67,7 +67,7 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "Courses"
-    description = "Our comprehensive training programs are designed to help you gain the skills and knowledge needed for a successful career in the transportation industry."
+    description = "Our comprehensive training programs are designed to help you gain the skills and knowledge needed for a successful career in the transportation industry, including dump trucks, school buses, box trucks, and rolloffs."
 
   # Testimonials section
   [params.testimonials]
@@ -81,7 +81,7 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "D Benjamin Training LLC is committed to providing high-quality CDL and bus driver training in Monmouth County, NJ. Our experienced instructors ensure that every student receives personalized attention and guidance to achieve their goals."
+    description = "D Benjamin Training LLC is committed to providing high-quality CDL and ELDT Driver Training for Class A, B, and C Licenses in Monmouth County, Ocean County, and Surrounding Areas, NJ. Our experienced instructors ensure that every student receives personalized attention and guidance to achieve their goals."
 
   # Counters section
   [params.counters]
@@ -95,9 +95,8 @@ theme = "hugo-elate-theme"
     title = "Get in touch"
     description = "Interested in our training programs? Get in touch with us and we'll be happy to assist you."
 
-	details = [
-        ["icon-home", "Monmouth County, NJ"],
-        ["icon-phone", "(123) 465-6789"],
+    details = [        ["icon-home", "Monmouth County, Ocean County, and Surrounding Areas, NJ"],
+        ["icon-phone", "(732) 915-1665"],
         ["icon-envelope", "contact@dbenjamintraining.com"],
         ["icon-globe", '<a href="http://dbenjamintraining.com" target="_blank">dbenjamintraining.com</a>']
       ]
@@ -113,7 +112,6 @@ theme = "hugo-elate-theme"
     enable = true
     copyright = '&copy; DBenjamin Training. All Rights Reserved.'
     links = [
-        ["icon-twitter", "#twitter"],
-        ["icon-facebook", "https://www.facebook.com/groups/739707993752621"],
-        ["icon-youtube", "#youtube"]
+        ["icon-google", "#google"],
+        ["icon-facebook", "https://www.facebook.com/groups/739707993752621"]
       ]
